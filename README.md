@@ -1,6 +1,6 @@
 # Semaphore implementation
 
-This assignment involves creating a multi-threaded program that prints out specific patterns like "ping, pong, pung" in a deterministic manner. The output should be consistent across multiple runs. This is achieved by the use of semaphores to control the order of printing by different threads. The assignment is a practical exercise in interprocess or inter-thread communication, focusing on concepts such as Producer/Consumer, Reader/Writer, and Dining Philosophers problems.
+A multi-threaded program that prints out specific patterns like "ping, pong, pung" in a deterministic manner. The output should be consistent across multiple runs. This is achieved by the use of semaphores to control the order of printing by different threads. This is a practical exercise in interprocess or inter-thread communication, focusing on concepts such as Producer/Consumer, Reader/Writer, and Dining Philosophers problems.
 
 ## Requirements
 
